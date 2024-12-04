@@ -1,5 +1,5 @@
-train: ./custom_data/train/
-val: ./custom_data/val/
+train: ./custom_data/train/images/
+val: ./custom_data/val/images/
 
 nc: 10  
 names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
